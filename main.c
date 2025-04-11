@@ -1,6 +1,6 @@
-//Name
-//
-//
+//Name-ARCHIT MITTAL
+//SECTION-AF
+//ROLL NO.-2415000317(13)
 
 
 #include <stdio.h>
@@ -17,7 +17,7 @@ int main() {
     scanf("%d", &choice);
     
     if (choice == 1) {
-        // Leap year check
+
         printf("Enter a year: ");
         scanf("%d", &year);
         
@@ -28,7 +28,6 @@ int main() {
         }
     }
     else if (choice == 2) {
-        // Array reversal
         printf("Enter size of array: ");
         scanf("%d", &size);
         
@@ -45,7 +44,6 @@ int main() {
         printf("\n");
     }
     else if (choice == 3) {
-        // Strong number check
         printf("Enter a number: ");
         scanf("%d", &number);
         
